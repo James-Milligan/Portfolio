@@ -98,7 +98,7 @@ function App() {
                     ]}
                     title="Portfolio"
                     description="This website"
-                    link="https://apps.apple.com/us/app/debot/id1550503962"
+                    link="https://github.com/James-Milligan/Portfolio"
                 />
             </div>
         </div>
