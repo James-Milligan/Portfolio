@@ -1,0 +1,54 @@
+.largeProject__container {
+    border-radius: 28px;
+    background-color: #213E70;
+    width: 100%;
+    /* padding-top: 25px;
+    padding-bottom: 25px; */
+    flex-direction: row;
+    font-size: 2.5rem;
+    align-items: center;
+    display: flex;
+    margin-bottom: 35px;
+    min-height: 250px;
+}
+
+.largeProject__leftContainer {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    text-align: left;
+    margin-left: 45px;
+    align-content: center;
+}
+
+.largeProject__tools {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex: 1;
+    margin-top: 55px;
+}
+
+.largeProject__toolImage {
+    height: 70px;
+    width: auto;
+    margin-right: 6%;
+}
+
+.largeProject__image1 {
+    width: 'auto';
+    align-self: center;
+}
+
+.largeProject__image2 {
+    width: 'auto';
+    align-self: center;
+    margin-left: 40px;
+}
+
+.largeProject__descriptionContainer {
+    flex: 1;
+    color: #fff;
+    margin-right: 40px;
+    margin-left: 40px;
+}
