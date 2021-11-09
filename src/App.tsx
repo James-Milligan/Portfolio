@@ -74,12 +74,21 @@ function App() {
                 />
                 <SmallProject maxCharacters={20} 
                     tools={[
-                        'typescript',
+                        'golang',
                         'aws'
                     ]}
                     title="Dystributed Lock for DynamoDB"
                     description="Distributed lock for multiple records on dynamoDB"
                     link="https://github.com/James-Milligan/DistributedLockAWS"
+                />
+                <SmallProject maxCharacters={20} 
+                    tools={[
+                        'golang',
+                        'aws',
+                    ]}
+                    title="Time Series Rule Engine"
+                    description="Instream data analysis tool"
+                    link="https://github.com/James-Milligan/TimeSeriesRuleEngine"
                 />
                 <SmallProject maxCharacters={20} 
                     tools={[
